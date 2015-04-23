@@ -1,0 +1,11 @@
+{
+  "name": "qTip2",
+  "version": "2.2.1",
+  "main": [
+    "./dist/jquery.qtip.js",
+    "./dist/jquery.qtip.css"
+  ],
+  "dependencies": {
+    "imagesloaded": "~3.1.8"
+  }
+}
